@@ -553,3 +553,12 @@ a.outerlink{text-decoration:none}
  word-wrap: break-word;}
 .linkStyle_149:visited{color:#0432FE; text-decoration:underline;}
 .linkStyle_149:hover{color:#FF2600; text-decoration:underline;}
+.linkStyle_152{font-family:  'Gotham-Light', 'Gotham' ,'Arial' ,sans-serif ;
+ font-size: 16px; 
+ font-weight:300; 
+ color: #0432FF;
+ text-decoration: underline; 
+ /* 0 0 0 #CBCBCB #942092 #FF2600 */
+ word-wrap: break-word;}
+.linkStyle_152:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_152:hover{color:#FF2600; text-decoration:underline;}

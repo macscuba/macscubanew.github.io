@@ -544,3 +544,12 @@
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
+.linkStyle_149{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+ font-size: 16px; 
+ font-weight:500; 
+ color: #0432FF;
+ text-decoration: underline; 
+ /* 0 0 0 #00F900 #0432FE #FF2600 */
+ word-wrap: break-word;}
+.linkStyle_149:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_149:hover{color:#FF2600; text-decoration:underline;}

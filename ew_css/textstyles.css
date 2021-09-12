@@ -39,6 +39,7 @@
 .Style13{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:700; 
+ color: #AC2D38;
  word-wrap: break-word;}
 .Style14{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 15px; 
@@ -64,511 +65,515 @@
  word-wrap: break-word;}
 .linkStyle_19:visited{color:#0432FE; text-decoration:underline;}
 .linkStyle_19:hover{color:#FF2600; text-decoration:underline;}
-.Style22{font-family:  'MarkerFelt-Thin', 'Marker Felt' ;
+.Style22{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+ font-size: 36px; 
+ font-weight:700; 
+ word-wrap: break-word;}
+.Style23{font-family:  'MarkerFelt-Thin', 'Marker Felt' ;
  font-size: 50px; 
  font-weight:100; 
  color: #F04A3B;
  word-wrap: break-word;}
-.Style23{font-family:  'ComicSansMS', 'Comic Sans MS' ,'Comic Sans MS' ,cursive ;
+.Style24{font-family:  'ComicSansMS', 'Comic Sans MS' ,'Comic Sans MS' ,cursive ;
  font-size: 16px; 
  word-wrap: break-word;}
-.linkStyle_24{font-family:  'ComicSansMS', 'Comic Sans MS' ,'Comic Sans MS' ,cursive ;
+.linkStyle_25{font-family:  'ComicSansMS', 'Comic Sans MS' ,'Comic Sans MS' ,cursive ;
  font-size: 16px; 
  color: #0432FF;
  text-decoration: underline; 
  /* 0 0 0 #CBCBCB #942092 #FF2600 */
  word-wrap: break-word;}
-.linkStyle_24:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_24:hover{color:#FF2600; text-decoration:underline;}
-.linkStyle_27{font-family:  'ComicSansMS', 'Comic Sans MS' ,'Comic Sans MS' ,cursive ;
+.linkStyle_25:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_25:hover{color:#FF2600; text-decoration:underline;}
+.linkStyle_28{font-family:  'ComicSansMS', 'Comic Sans MS' ,'Comic Sans MS' ,cursive ;
  font-size: 16px; 
  margin:0;
  word-wrap: break-word;}
-.linkStyle_27:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_27:hover{color:#FF2600; text-decoration:underline;}
-.linkStyle_30{font-family:  'Helvetica' ,sans-serif ;
+.linkStyle_28:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_28:hover{color:#FF2600; text-decoration:underline;}
+.linkStyle_31{font-family:  'Helvetica' ,sans-serif ;
  font-size: 16px; 
  color: #0432FF;
  text-decoration: underline; 
  /* 0 0 0 #CBCBCB #942092 #FF2600 */
  word-wrap: break-word;}
-.linkStyle_30:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_30:hover{color:#FF2600; text-decoration:underline;}
-.Style33{font-family:  'Helvetica' ,sans-serif ;
+.linkStyle_31:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_31:hover{color:#FF2600; text-decoration:underline;}
+.Style34{font-family:  'Helvetica' ,sans-serif ;
  font-size: 16px; 
  word-wrap: break-word;}
-.Style34{font-family:  'GurmukhiMN', 'Gurmukhi MN' ;
+.Style35{font-family:  'GurmukhiMN', 'Gurmukhi MN' ;
  font-size: 50px; 
  color: #00403C;
- word-wrap: break-word;}
-.Style35{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
- font-size: 16px; 
- font-weight:500; 
- color: #003F3B;
  word-wrap: break-word;}
 .Style36{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 16px; 
  font-weight:500; 
+ color: #003F3B;
+ word-wrap: break-word;}
+.Style37{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+ font-size: 16px; 
+ font-weight:500; 
  margin:0;
  color: #003F3B;
  word-wrap: break-word;}
-.linkStyle_37{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.linkStyle_38{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 16px; 
  font-weight:500; 
  color: #0432FF;
  text-decoration: underline; 
  /* 0 0 0 #CBCBCB #942092 #FF2600 */
  word-wrap: break-word;}
-.linkStyle_37:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_37:hover{color:#FF2600; text-decoration:underline;}
-.Style40{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.linkStyle_38:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_38:hover{color:#FF2600; text-decoration:underline;}
+.Style41{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 15px; 
  color: #003F3B;
  word-wrap: break-word;}
-.linkStyle_41{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.linkStyle_42{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 14px; 
  font-weight:500; 
  color: #0432FF;
  text-decoration: underline; 
  /* 0 0 0 #CBCBCB #942092 #FF2600 */
  word-wrap: break-word;}
-.linkStyle_41:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_41:hover{color:#FF2600; text-decoration:underline;}
-.linkStyle_44{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.linkStyle_42:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_42:hover{color:#FF2600; text-decoration:underline;}
+.linkStyle_45{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 16px; 
  font-weight:500; 
  color: #0432FF;
  text-decoration: underline; 
  /* 0 0 0 #00F900 #0432FE #FF2600 */
  word-wrap: break-word;}
-.linkStyle_44:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_44:hover{color:#FF2600; text-decoration:underline;}
-.Style47{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.linkStyle_45:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_45:hover{color:#FF2600; text-decoration:underline;}
+.Style48{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:500; 
  color: #797979;
  word-wrap: break-word;}
-.para48{font-size: 0; text-align:center; padding-bottom:26px; margin-top:0px; padding-top:0px;}
-.Style49{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.para49{font-size: 0; text-align:center; padding-bottom:26px; margin-top:0px; padding-top:0px;}
+.Style50{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 16px; 
  font-weight:500; 
  color: #797979;
  word-wrap: break-word;}
-.para50{font-size: 0; text-align:center; padding-bottom:21px; margin-top:0px; padding-top:0px;}
-.Style51{font-family:  'Helvetica' ,sans-serif ;
+.para51{font-size: 0; text-align:center; padding-bottom:21px; margin-top:0px; padding-top:0px;}
+.Style52{font-family:  'Helvetica' ,sans-serif ;
  font-size: 24px; 
  color: #008E51;
  word-wrap: break-word;}
-.para52{font-size: 0; text-align:center; padding-bottom:6px; margin-top:0px; padding-top:0px;}
-.Style53{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.para53{font-size: 0; text-align:center; padding-bottom:6px; margin-top:0px; padding-top:0px;}
+.Style54{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 16px; 
  font-weight:500; 
  color: #919190;
  word-wrap: break-word;}
-.Style54{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.Style55{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:500; 
  color: #83ADD5;
  word-wrap: break-word;}
-.Style55{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+.Style56{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
  font-size: 42px; 
  color: #A03F20;
  word-wrap: break-word;}
-.Style56{font-family:  'Futura-Bold', 'Futura' ,'Arial' ,sans-serif ;
+.Style57{font-family:  'Futura-Bold', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 16px; 
  font-weight:700; 
  color: #A9A9A8;
  word-wrap: break-word;}
-.Style57{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.Style58{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:500; 
  color: #919190;
  word-wrap: break-word;}
-.Style58{font-family:  'Gotham-Medium', 'Gotham' ,'Arial' ,sans-serif ;
+.Style59{font-family:  'Gotham-Medium', 'Gotham' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:500; 
  color: #011891;
  word-wrap: break-word;}
-.linkStyle_59{font-family:  'Gotham-Medium', 'Gotham' ,'Arial' ,sans-serif ;
+.linkStyle_60{font-family:  'Gotham-Medium', 'Gotham' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:500; 
  color: #0432FF;
  text-decoration: underline; 
  /* 0 0 0 #00F900 #0432FE #FF2600 */
  word-wrap: break-word;}
-.linkStyle_59:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_59:hover{color:#FF2600; text-decoration:underline;}
-.Style62{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.linkStyle_60:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_60:hover{color:#FF2600; text-decoration:underline;}
+.Style63{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:500; 
  color: #929191;
  word-wrap: break-word;}
-.Style63{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.Style64{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:500; 
  color: #033888;
  word-wrap: break-word;}
-.para64{font-size: 0; text-align:center; padding-bottom:24px; margin-top:0px; padding-top:0px;}
-.Style65{font-family:  'HoeflerText-Regular', 'Hoefler Text' ,'Times New Roman' ,serif ;
+.para65{font-size: 0; text-align:center; padding-bottom:24px; margin-top:0px; padding-top:0px;}
+.Style66{font-family:  'HoeflerText-Regular', 'Hoefler Text' ,'Times New Roman' ,serif ;
  font-size: 18px; 
  color: #706A53;
  word-wrap: break-word;}
-.para66{font-size: 0; text-align:center; padding-bottom:13px; margin-top:0px; padding-top:0px;}
-.Style67{font-family:  'HoeflerText-Regular', 'Hoefler Text' ,'Times New Roman' ,serif ;
+.para67{font-size: 0; text-align:center; padding-bottom:13px; margin-top:0px; padding-top:0px;}
+.Style68{font-family:  'HoeflerText-Regular', 'Hoefler Text' ,'Times New Roman' ,serif ;
  font-size: 36px; 
  color: #882424;
  word-wrap: break-word;}
-.linkStyle_68{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.linkStyle_69{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 15px; 
  color: #0432FF;
  text-decoration: underline; 
  /* 0 0 0 #CBCBCB #942092 #FF2600 */
  word-wrap: break-word;}
-.linkStyle_68:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_68:hover{color:#FF2600; text-decoration:underline;}
-.Style71{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.linkStyle_69:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_69:hover{color:#FF2600; text-decoration:underline;}
+.Style72{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:500; 
  color: #904010;
  word-wrap: break-word;}
-.Style72{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+.Style73{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
  font-size: 48px; 
  color: #7AA9E7;
  word-wrap: break-word;}
-.Style73{font-family:  'TrebuchetMS', 'Trebuchet MS' ,sans-serif ;
+.Style74{font-family:  'TrebuchetMS', 'Trebuchet MS' ,sans-serif ;
  font-size: 48px; 
  color: #54A1A1;
  word-wrap: break-word;}
-.Style74{font-family:  'TrebuchetMS', 'Trebuchet MS' ,sans-serif ;
- font-size: 48px; 
- color: #FE2500;
- word-wrap: break-word;}
 .Style75{font-family:  'TrebuchetMS', 'Trebuchet MS' ,sans-serif ;
- font-size: 24px; 
+ font-size: 48px; 
  color: #FE2500;
  word-wrap: break-word;}
 .Style76{font-family:  'TrebuchetMS', 'Trebuchet MS' ,sans-serif ;
+ font-size: 24px; 
+ color: #FE2500;
+ word-wrap: break-word;}
+.Style77{font-family:  'TrebuchetMS', 'Trebuchet MS' ,sans-serif ;
  font-size: 48px; 
  color: #0095FE;
  word-wrap: break-word;}
-.Style77{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+.Style78{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
  font-size: 48px; 
  color: #58C1FE;
  word-wrap: break-word;}
-.Style78{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+.Style79{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
  font-size: 18px; 
  margin:0;
  word-wrap: break-word;}
-.Style79{font-family:  'Gotham-Light', 'Gotham' ,'Arial' ,sans-serif ;
+.Style80{font-family:  'Gotham-Light', 'Gotham' ,'Arial' ,sans-serif ;
  font-size: 48px; 
  font-weight:300; 
  color: #929191;
  word-wrap: break-word;}
-.Style80{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.Style81{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:700; 
  color: #668271;
  word-wrap: break-word;}
-.Style81{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.Style82{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 20px; 
  color: #584D4C;
  word-wrap: break-word;}
-.Style82{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.Style83{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:700; 
  color: #0095FE;
  word-wrap: break-word;}
-.Style83{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.Style84{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 20px; 
  margin:0;
  color: #584D4C;
- word-wrap: break-word;}
-.Style84{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
- font-size: 36px; 
- font-weight:700; 
- color: #754C70;
  word-wrap: break-word;}
 .Style85{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:700; 
+ color: #754C70;
+ word-wrap: break-word;}
+.Style86{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+ font-size: 36px; 
+ font-weight:700; 
  color: #D81E22;
  word-wrap: break-word;}
-.Style86{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.Style87{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 20px; 
- color: #005292;
- word-wrap: break-word;}
-.Style87{font-family:  'Helvetica' ,sans-serif ;
- font-size: 15px; 
  color: #005292;
  word-wrap: break-word;}
 .Style88{font-family:  'Helvetica' ,sans-serif ;
  font-size: 15px; 
+ color: #005292;
+ word-wrap: break-word;}
+.Style89{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 15px; 
  margin:0;
  color: #005292;
  word-wrap: break-word;}
-.linkStyle_89{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.linkStyle_90{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 15px; 
  font-weight:700; 
  color: #0432FF;
  text-decoration: underline; 
  /* 0 0 0 #CBCBCB #942092 #FF2600 */
  word-wrap: break-word;}
-.linkStyle_89:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_89:hover{color:#FF2600; text-decoration:underline;}
-.Style92{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.linkStyle_90:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_90:hover{color:#FF2600; text-decoration:underline;}
+.Style93{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 12px; 
  font-weight:700; 
  color: #005292;
  word-wrap: break-word;}
-.linkStyle_93{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.linkStyle_94{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 12px; 
  font-weight:700; 
  color: #0432FF;
  text-decoration: underline; 
  /* 0 0 0 #CBCBCB #942092 #FF2600 */
  word-wrap: break-word;}
-.linkStyle_93:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_93:hover{color:#FF2600; text-decoration:underline;}
-.Style96{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.linkStyle_94:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_94:hover{color:#FF2600; text-decoration:underline;}
+.Style97{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 12px; 
  font-weight:700; 
  margin:0;
  color: #005292;
- word-wrap: break-word;}
-.Style97{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
- font-size: 36px; 
- font-weight:700; 
- color: #00183D;
  word-wrap: break-word;}
 .Style98{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:700; 
+ color: #00183D;
+ word-wrap: break-word;}
+.Style99{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+ font-size: 36px; 
+ font-weight:700; 
  margin:0;
  color: #00183D;
  word-wrap: break-word;}
-.Style99{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.Style100{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 16px; 
  word-wrap: break-word;}
-.Style100{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.Style101{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 15px; 
  color: #0095FE;
  word-wrap: break-word;}
-.Style101{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.Style102{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:700; 
  color: #E6391D;
  word-wrap: break-word;}
-.Style102{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.Style103{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 16px; 
  margin:0;
  word-wrap: break-word;}
-.linkStyle_103{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.linkStyle_104{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 15px; 
  color: #0432FF;
  text-decoration: underline; 
  /* 0 0 0 #00F900 #0432FE #FF2600 */
  word-wrap: break-word;}
-.linkStyle_103:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_103:hover{color:#FF2600; text-decoration:underline;}
-.Style106{font-family:  'Gotham-Light', 'Gotham' ,'Arial' ,sans-serif ;
+.linkStyle_104:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_104:hover{color:#FF2600; text-decoration:underline;}
+.Style107{font-family:  'Gotham-Light', 'Gotham' ,'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:300; 
  color: #929191;
  word-wrap: break-word;}
-.Style107{font-family:  'Gotham-Light', 'Gotham' ,'Arial' ,sans-serif ;
+.Style108{font-family:  'Gotham-Light', 'Gotham' ,'Arial' ,sans-serif ;
  font-size: 18px; 
  font-weight:300; 
  word-wrap: break-word;}
-.Style108{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.Style109{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:700; 
  color: #526F39;
  word-wrap: break-word;}
-.Style109{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.Style110{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:700; 
  color: #2A688A;
  word-wrap: break-word;}
-.Style110{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.Style111{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:700; 
  color: #BC565C;
  word-wrap: break-word;}
-.Style111{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
- font-size: 36px; 
- font-weight:700; 
- color: #5E6EA4;
- word-wrap: break-word;}
 .Style112{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
- font-size: 24px; 
+ font-size: 36px; 
  font-weight:700; 
  color: #5E6EA4;
  word-wrap: break-word;}
 .Style113{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ color: #5E6EA4;
+ word-wrap: break-word;}
+.Style114{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:700; 
  color: #85685F;
  word-wrap: break-word;}
-.Style114{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.Style115{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:700; 
  color: #85685F;
  word-wrap: break-word;}
-.Style115{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.Style116{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 20px; 
  word-wrap: break-word;}
-.Style116{font-family:  'FordCE-BoldExt', 'Ford CE Bold' ;
+.Style117{font-family:  'FordCE-BoldExt', 'Ford CE Bold' ;
  font-size: 14px; 
  font-weight:700; 
  color: #0095FE;
  word-wrap: break-word;}
-.Style117{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.Style118{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 14px; 
  font-weight:500; 
  margin:0;
  word-wrap: break-word;}
-.Style117:visited{color:#0432FE; text-decoration:underline;}
-.Style117:hover{color:#FF2600; text-decoration:underline;}
-.linkStyle_120{font-family:  'Helvetica' ,sans-serif ;
+.Style118:visited{color:#0432FE; text-decoration:underline;}
+.Style118:hover{color:#FF2600; text-decoration:underline;}
+.linkStyle_121{font-family:  'Helvetica' ,sans-serif ;
  font-size: 12px; 
  margin:0;
  word-wrap: break-word;}
-.linkStyle_120:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_120:hover{color:#FF2600; text-decoration:underline;}
-.Style123{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.linkStyle_121:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_121:hover{color:#FF2600; text-decoration:underline;}
+.Style124{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:700; 
  color: #6B7E99;
  word-wrap: break-word;}
-.Style124{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.Style125{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:700; 
  color: #0D5375;
  word-wrap: break-word;}
-.Style125{font-family:  'Ford-BoldExt', 'Ford Bold' ;
- font-size: 14px; 
- font-weight:700; 
- color: #0095FE;
- word-wrap: break-word;}
 .Style126{font-family:  'Ford-BoldExt', 'Ford Bold' ;
  font-size: 14px; 
  font-weight:700; 
- margin:0;
  color: #0095FE;
  word-wrap: break-word;}
 .Style127{font-family:  'Ford-BoldExt', 'Ford Bold' ;
  font-size: 14px; 
  font-weight:700; 
  margin:0;
+ color: #0095FE;
+ word-wrap: break-word;}
+.Style128{font-family:  'Ford-BoldExt', 'Ford Bold' ;
+ font-size: 14px; 
+ font-weight:700; 
+ margin:0;
  color: #00F900;
  word-wrap: break-word;}
-.Style128{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.Style129{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 18px; 
  font-weight:500; 
  word-wrap: break-word;}
-.Style129{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.Style130{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 14px; 
  font-weight:500; 
  word-wrap: break-word;}
-.Style130{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.Style131{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:700; 
  color: #A6A6A6;
  word-wrap: break-word;}
-.Style131{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.Style132{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 18px; 
  font-weight:700; 
  word-wrap: break-word;}
-.Style132{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.Style133{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 18px; 
  font-weight:700; 
  margin:0;
  word-wrap: break-word;}
-.Style133{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.Style134{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:700; 
  color: #00B5D9;
  word-wrap: break-word;}
-.Style134{font-family:  'Gotham-Medium', 'Gotham' ,'Arial' ,sans-serif ;
+.Style135{font-family:  'Gotham-Medium', 'Gotham' ,'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:500; 
  color: #7E969A;
  word-wrap: break-word;}
-.Style135{font-family:  'Gotham-Book', 'Gotham' ,'Arial' ,sans-serif ;
+.Style136{font-family:  'Gotham-Book', 'Gotham' ,'Arial' ,sans-serif ;
  font-size: 18px; 
- word-wrap: break-word;}
-.Style136{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
- font-size: 36px; 
- font-weight:700; 
- color: #5F95D4;
  word-wrap: break-word;}
 .Style137{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:700; 
+ color: #5F95D4;
+ word-wrap: break-word;}
+.Style138{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+ font-size: 36px; 
+ font-weight:700; 
  color: #94C2EA;
  word-wrap: break-word;}
-.Style138{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.Style139{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 14px; 
  color: #4E6755;
  word-wrap: break-word;}
-.Style139{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.Style140{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 14px; 
  margin:0;
  color: #4E6755;
  word-wrap: break-word;}
-.linkStyle_140{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.linkStyle_141{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 20px; 
  color: #0432FF;
  text-decoration: underline; 
  /* 0 0 0 #CBCBCB #942092 #FF2600 */
  word-wrap: break-word;}
-.linkStyle_140:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_140:hover{color:#FF2600; text-decoration:underline;}
-.linkStyle_143{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.linkStyle_141:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_141:hover{color:#FF2600; text-decoration:underline;}
+.linkStyle_144{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 20px; 
  margin:0;
  color: #FEFFFF;
  word-wrap: break-word;}
-.linkStyle_143:visited{color:#0432FE; text-decoration:underline;}
-.linkStyle_143:hover{color:#FF2600; text-decoration:underline;}
-.Style146{font-family:  'Gotham-Medium', 'Gotham' ,'Arial' ,sans-serif ;
+.linkStyle_144:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_144:hover{color:#FF2600; text-decoration:underline;}
+.Style147{font-family:  'Gotham-Medium', 'Gotham' ,'Arial' ,sans-serif ;
  font-size: 18px; 
  font-weight:500; 
  color: #1F1F1F;
  word-wrap: break-word;}
-.Style147{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+.Style148{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:700; 
  margin:0;
  color: #2A688A;
  word-wrap: break-word;}
-.Style148{font-family:  'Gotham-Medium', 'Gotham' ,'Arial' ,sans-serif ;
+.Style149{font-family:  'Gotham-Medium', 'Gotham' ,'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:500; 
  color: #514B42;
  word-wrap: break-word;}
-.Style149{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+.Style150{font-family:  'ArialMT', 'Arial' ,sans-serif ;
  font-size: 24px; 
  word-wrap: break-word;}
-.Style150{font-family:  'Gotham-Medium', 'Gotham' ,'Arial' ,sans-serif ;
+.Style151{font-family:  'Gotham-Medium', 'Gotham' ,'Arial' ,sans-serif ;
  font-size: 36px; 
  font-weight:500; 
  color: #015AD4;
  word-wrap: break-word;}
-.Style151{font-family:  'Zapfino' ;
+.Style152{font-family:  'Zapfino' ;
  font-size: 24px; 
  color: #797979;
  word-wrap: break-word;}
-.para152{font-size: 0; text-align:left; padding-bottom:16px; margin-top:0px; padding-top:0px;}
-.Style153{font-family:  'HoeflerText-Regular', 'Hoefler Text' ,'Times New Roman' ,serif ;
+.para153{font-size: 0; text-align:left; padding-bottom:16px; margin-top:0px; padding-top:0px;}
+.Style154{font-family:  'HoeflerText-Regular', 'Hoefler Text' ,'Times New Roman' ,serif ;
  font-size: 16px; 
  color: #929292;
  word-wrap: break-word;}
-.Style154{font-family:  'Helvetica-Bold', 'Helvetica' ,sans-serif ;
+.Style155{font-family:  'Helvetica-Bold', 'Helvetica' ,sans-serif ;
  font-size: 14px; 
  font-weight:700; 
  word-wrap: break-word;}
-.Style155{font-family:  'Impact' ,'Arial' ,sans-serif ;
+.Style156{font-family:  'Impact' ,'Arial' ,sans-serif ;
  font-size: 48px; 
  color: #A9A9A8;
  word-wrap: break-word;}

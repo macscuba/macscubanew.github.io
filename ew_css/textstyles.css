@@ -580,3 +580,23 @@
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
+.linkStyle_160{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+ font-size: 14px; 
+ font-weight:500; 
+ margin:0;
+ color: #FFFEFE;
+ word-wrap: break-word;}
+.linkStyle_160:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_160:hover{color:#FF2600; text-decoration:underline;}
+.Style163{font-family:  'Gotham-Medium', 'Gotham' ,'Arial' ,sans-serif ;
+ font-size: 36px; 
+ font-weight:500; 
+ color: #3C7AC2;
+ word-wrap: break-word;}
+.linkStyle_164{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 20px; 
+ margin:0;
+ color: #FFFEFE;
+ word-wrap: break-word;}
+.linkStyle_164:visited{color:#0432FE; text-decoration:underline;}
+.linkStyle_164:hover{color:#FF2600; text-decoration:underline;}
